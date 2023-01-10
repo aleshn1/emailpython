@@ -7,7 +7,7 @@ from email.message import EmailMessage
 
 EMAIL_ADDRESS = 'alessandrohn120@gmail.com'
 EMAIL_PASSWORD = 'ogeielibgbukrvzs'
-
+# essa senha de EMAIL_PASSWORD é o proprio  gmail que gera.
 #criar um email
 
 msg = EmailMessage()
